@@ -1,0 +1,9 @@
+{
+    "route_num": 12,
+    "frequency": 1,
+    "content_num": 100,
+    "run_time": 240,
+    "queue_size": 100,
+    "cache_size": 600,
+    "fib_size": 600
+}

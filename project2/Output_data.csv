@@ -1,0 +1,20 @@
+Time,Type,Consumer_ID,Route_ID,Content_name,Data_hop,Path,Result,Hit_consumer,Hit_PIT,Hit_Miss
+19,data,C4,R6,r6/35,1,p6,data hit in consumer,1,1,0
+44,data,C2,R1,r1/10,1,p1,data hit in consumer,1,1,0
+33,data,C11,R9,r9/1,1,p9,data hit in consumer,1,1,0
+60,data,C2,R1,r1/74,1,p1,data hit in consumer,1,1,0
+70,data,C5,R1,r1/33,1,p1,data hit in pit,0,1,0
+80,data,C1,R0,r0/52,1,p0,data hit in consumer,1,1,0
+77,data,C5,R2,r1/33,2,p1/2,data hit in consumer,1,1,0
+111,data,C9,R11,r11/3,1,p11,data hit in consumer,1,1,0
+130,data,C3,R3,r3/34,1,p3,data hit in pit,0,1,0
+126,data,C9,R10,r10/22,1,p10,data hit in pit,0,1,0
+140,data,C2,R1,r1/82,1,p1,data hit in consumer,1,1,0
+130,data,C9,R11,r10/22,2,p10/11,data hit in consumer,1,1,0
+139,data,C3,R3,r3/34,1,p3,data hit in pit,0,1,0
+140,data,C4,R6,r6/82,1,p6,data hit in consumer,1,1,0
+143,data,C3,R4,r3/34,2,p3/4,data hit in consumer,1,1,0
+147,data,C5,R1,r1/33,1,p1,data hit in pit,0,1,0
+153,data,C3,R1,r3/34,2,p3/1,data miss in pit,0,0,1
+150,data,C5,R3,r1/33,2,p1/3,data hit in pit,0,1,0
+153,data,C3,R1,r3/34,2,p3/1,drop data,0,0,1
