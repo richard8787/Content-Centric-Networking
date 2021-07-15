@@ -11,4 +11,4 @@ For Interest_queue:
 Using DFS to check which package has shortest distance for this node, if queue is full then remove it
 
 For Data_queue: 
-Build the table to check the data_hop, if queue is full then remove the max one (just like aging)
+Build a table to check the data_hop, if queue is full then remove the max one (just like aging)
