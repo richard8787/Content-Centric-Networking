@@ -1,4 +1,4 @@
-# Real_Time_System
+# Content-Centric Networking
 Real_Time_System project: Build Content-Centric Networking (CCN)
 
 project1: Build Network topology construction
